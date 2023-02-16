@@ -14,5 +14,5 @@ eureka:
     hostname: ${EUREKA_INSTANCE:localhost}
 
 
-Application:
+application:
   name: hello
